@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.venv
+.DS_Store
+
+data/sentiment_dataset.csv
