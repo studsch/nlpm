@@ -332,7 +332,6 @@ jupyter notebook 5.ipynb
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [gensim](https://pypi.org/project/gensim/)
 - [tensorflow](https://www.tensorflow.org/)
-
 - [nltk](https://www.nltk.org)
 - [pytorch](https://pytorch.org/)
 - [pandas](https://pandas.pydata.org/)
